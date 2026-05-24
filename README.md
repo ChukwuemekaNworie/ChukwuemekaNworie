@@ -1,4 +1,4 @@
-## Hi there, I'm [Chukwuemeka Nworie Jayfresh] 👋
+## Hi there, I'm [Chukwuemeka  Jayfresh] 👋
 
 <div align="left">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
