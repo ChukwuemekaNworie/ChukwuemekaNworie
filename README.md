@@ -19,7 +19,7 @@ I help businesses turn data into strategy.
 As a data analyst, I specialize in simplifying complex datasets into insights that improve decision-making, optimize operations, and uncover growth opportunities. I’m passionate about creating intuitive dashboards, automating workflows, and building data-driven solutions that make teams more efficient and forward-thinking.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/ChukwuemekaNworie)
+### [🏆 Check Out My Full Portfolio Website](https://chukwuemekanworie.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
